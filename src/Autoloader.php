@@ -1,6 +1,6 @@
 <?php
 
-namespace Core;
+namespace Core\src;
 class Autoloader
 {
     public static function registrate(string $dir)

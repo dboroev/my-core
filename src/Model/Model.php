@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Model;
+namespace Core\src\Model;
 
 use PDO;
 

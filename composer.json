@@ -1,0 +1,9 @@
+{
+    "name": "darmaboroev/my-core",
+    "autoload": {
+        "psr-4": {
+            "Darmaboroev\\MyCore\\": "src/"
+        }
+    },
+    "require": {}
+}

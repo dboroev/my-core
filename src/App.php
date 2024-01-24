@@ -1,8 +1,9 @@
 <?php
 
-namespace Core;
+namespace Core\src;
 
 use Container;
+use Core\Error;
 use Request\Request;
 use Service\LoggerService;
 
